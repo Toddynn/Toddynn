@@ -16,7 +16,7 @@
 <div align="center">
 
 <a href="https://www.instagram.com/vinicius.toddys/?igshid=YmMyMTA2M2Y%3D" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="www.linkedin.com/in/vinícius-gabriel-todis-310228247" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="www.linkedin.com/vinícius-gabriel-todis-310228247" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </div>
   
