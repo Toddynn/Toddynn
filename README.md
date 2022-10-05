@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn&layout=compact&hide_border=true&title_color=E1B8F5&text_color=E1B8F5&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Toddynn&theme=dracula&bg_color=0d1117&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Toddynn&theme=dracula&text_color=style="color: E1B8F5&bg_color=0d1117&hide_border=true&area=true)
 
 <div align="center">
 
@@ -41,13 +41,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
-<div align="center">
+<div align="center" >
   <br>
   <p align="centre">
     <b>Visitors Count</b>
   </p>  
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Toddynn}/count.svg" style="textColor=A93ADB"/>
+    <img align="center" src="https://profile-counter.glitch.me/{Toddynn}/count.svg" style=textColor=A93ADB"/>
   </p> 
   <br>
 </div>
