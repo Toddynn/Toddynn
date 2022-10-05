@@ -7,11 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn&layout=compact&hide_border=true&title_color=AC28DB&text_color=AC28DB&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Toddynn&theme=dracula&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Toddynn&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Toddynn&theme=dracula&bg_color=0d1117&hide_border=true&area=true)
 
 <div align="center">
 
