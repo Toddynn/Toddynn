@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn&layout=compact&hide_border=true&title_color=E1B8F5&text_color=E1B8F5&bg_color=0d1117" />
 </div>
 
-[![Contribution](https://activity-graph.herokuapp.com/graph?username=Toddynn&theme=dracula&title_color=E1B8F5&bg_color=0d1117&hide_border=true&area=true)]
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Toddynn&theme=dracula&title_color=E1B8F5&bg_color=0d1117&hide_border=true&area=true)
 
 <div align="center">
 
