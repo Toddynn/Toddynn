@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn&layout=compact&hide_border=true&title_color=E1B8F5&text_color=E1B8F5&bg_color=0d1117" />
 </div>
 
-[![Toddynn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Toddynn&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Toddynn/github-readme-activity-graph)
+[![Toddynn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Toddynn&theme=tokyo-night&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Toddynn/github-readme-activity-graph)
 
 <div align="center">
 
