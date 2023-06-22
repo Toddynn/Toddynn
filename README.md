@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn&layout=compact&hide_border=true&title_color=E1B8F5&text_color=E1B8F5&bg_color=0d1117" />
 </div>
 
-[![Toddynn github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Toddynn&theme=tokyo-night&line=8a43ba&point=fff&area=true&hide_border=true)](https://github.com/Toddynn/github-readme-activity-graph)
-
 <div align="center">
 
 <a href="https://www.instagram.com/vinicius.toddys/?igshid=YmMyMTA2M2Y%3D" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
