@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E1B8F5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+Gabriel+Todis;I'm+19+years+old;Code+from+Brazil,+PR;Dev+with+main+skills+for+Front-end;Be+free+to+explore+my+repositories!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
+  ![Toddynn's Stats](https://github-readme-stats.vercel.app/api?username=Toddynn&theme=dracula&show_icons=true&hide_border=true&count_private=true)
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Toddynn&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn&layout=compact&hide_border=true&title_color=E1B8F5&text_color=E1B8F5&bg_color=0d1117" />
 </div>
