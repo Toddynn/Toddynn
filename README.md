@@ -10,7 +10,7 @@
 <div align="center">
   
   <a href="https://www.instagram.com/vinicius.toddys/?igshid=YmMyMTA2M2Y%3D" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-  <a href="www.linkedin.com/in/viniciusgabrieltodis" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/viniciusgabrieltodis" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="mailto:viniciusgabriez07@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   
 </div>
