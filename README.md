@@ -44,7 +44,7 @@ I'm Vinícius Gabriel Todis, a Fullstack Developer at Pormade Portas. My passion
 - ✍️ **Version Control:** Git, GitHub (Branching Strategies, Code Review)
 - 🏃 **Agile Methodologies:** Scrum, Kanban
 - ✨ **Code Quality:** Clean Code (SOLID, DRY, KISS, YAGNI Principles) - always learning
-- 🏗️ **Software Architecture:** Microservices, Monoliths, Event-Driven Architecture, Domain-Driven Design (DDD) - learning
+- 🏗️ **Software Architecture:** Microservices, Monoliths, Event-Driven Architecture - learning, Domain-Driven Design (DDD) - learning
 - 🧪 **Test-Driven Development:** TDD - learning
 - 🗓️ **Project Management:** Jira, Trello, Miro
 - 🗺️ **Data Modeling & Diagramming:** e.g., DrawDB, PGmodeler
@@ -54,6 +54,16 @@ I'm Vinícius Gabriel Todis, a Fullstack Developer at Pormade Portas. My passion
 
 - 📚 Fullcycle 3.0
 - 📚 Fullcycle 4.0
+
+<br>
+
+### 📂 About my repositories
+
+All my repositories are private since they are **real business projects**.  
+If you want to know more about my work, please contact me through:  
+- 💼 [LinkedIn](https://www.linkedin.com/in/viniciusgabrieltodis)  
+- 📧 [Gmail](mailto:viniciusgabriez07@gmail.com)  
+- 📱 WhatsApp (available on request)  
 
 <br>
 
